@@ -13,12 +13,20 @@
 |점심 메뉴 추천|`2022-12-17` ~ `2022-12-17`|[Repository](https://github.com/woosung1223/java-menu/tree/woosung1223)|[PR](https://github.com/woowacourse-precourse/java-menu/pull/59)|
 
 ### 회고
-- [프리코스 1주차 회고](https://dev-ws.tistory.com/3)
-- [프리코스 2주차 회고](https://dev-ws.tistory.com/6)
-- [프리코스 3주차 회고](https://dev-ws.tistory.com/7)
-- [프리코스 4주차 회고](https://dev-ws.tistory.com/8)
+| &nbsp; | &nbsp; | &nbsp; |
+|:---:|:---:|:---:|
+|[프리코스 1주차 회고](https://dev-ws.tistory.com/3)| 여기는 공백 |  여기에도 글 넣기 |
+|[프리코스 2주차 회고](https://dev-ws.tistory.com/6)| 여기는 공백 | 여기에도 글 넣기 |
+|[프리코스 3주차 회고](https://dev-ws.tistory.com/7)| 여기는 공백 | 여기에도 글 넣기 | 
+|[프리코스 4주차 회고](https://dev-ws.tistory.com/8)| 여기는 공백 | 여기에도 글 넣기 |
 
-
+### 포스팅
+| &nbsp; | &nbsp; | &nbsp; |
+|:---:|:---:|:---:|
+|[프리코스 1주차 회고](https://dev-ws.tistory.com/3)| 여기는 공백 |  여기에도 글 넣기 |
+|[프리코스 2주차 회고](https://dev-ws.tistory.com/6)| 여기는 공백 | 여기에도 글 넣기 |
+|[프리코스 3주차 회고](https://dev-ws.tistory.com/7)| 여기는 공백 | 여기에도 글 넣기 | 
+|[프리코스 4주차 회고](https://dev-ws.tistory.com/8)| 여기는 공백 | 여기에도 글 넣기 |
 
 ## Level 1
 
