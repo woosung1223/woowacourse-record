@@ -1,49 +1,38 @@
 # 🏃🏻‍♂️ 우아한테크코스 기록
 
-## Precourse
-
-### 미션
-
-| Project | Period | Repository | PR |
-|:---:|:---:|:---:|:---:|
-|온보딩|`2022-10-26` ~ `2022-11-01`|[Repository](https://github.com/woosung1223/java-onboarding/tree/woosung1223)|[PR](https://github.com/woowacourse-precourse/java-onboarding/pull/660)|
-|숫자 야구|`2022-11-02` ~ `2022-11-08`|[Repository](https://github.com/woosung1223/java-baseball/tree/woosung1223)|[PR](https://github.com/woowacourse-precourse/java-baseball/pull/785)|
-|로또|`2022-11-09` ~ `2022-11-15`|[Repository](https://github.com/woosung1223/java-lotto/tree/woosung1223)|[PR](https://github.com/woowacourse-precourse/java-lotto/pull/572)|
-|다리 건너기|`2022-11-16` ~ `2022-11-22`|[Repository](https://github.com/woosung1223/java-bridge/tree/woosung1223)|[PR](https://github.com/woowacourse-precourse/java-bridge/pull/264)|
-|점심 메뉴 추천|`2022-12-17` ~ `2022-12-17`|[Repository](https://github.com/woosung1223/java-menu/tree/woosung1223)|[PR](https://github.com/woowacourse-precourse/java-menu/pull/59)|
-
-### 회고
-| &nbsp; | &nbsp; | &nbsp; |
-|:---:|:---:|:---:|
-|[프리코스 1주차 회고](https://dev-ws.tistory.com/3)| 여기는 공백 |  여기에도 글 넣기 |
-|[프리코스 2주차 회고](https://dev-ws.tistory.com/6)| 여기는 공백 | 여기에도 글 넣기 |
-|[프리코스 3주차 회고](https://dev-ws.tistory.com/7)| 여기는 공백 | 여기에도 글 넣기 | 
-|[프리코스 4주차 회고](https://dev-ws.tistory.com/8)| 여기는 공백 | 여기에도 글 넣기 |
-
-### 포스팅
-| &nbsp; | &nbsp; | &nbsp; |
-|:---:|:---:|:---:|
-|[프리코스 1주차 회고](https://dev-ws.tistory.com/3)| 여기는 공백 |  여기에도 글 넣기 |
-|[프리코스 2주차 회고](https://dev-ws.tistory.com/6)| 여기는 공백 | 여기에도 글 넣기 |
-|[프리코스 3주차 회고](https://dev-ws.tistory.com/7)| 여기는 공백 | 여기에도 글 넣기 | 
-|[프리코스 4주차 회고](https://dev-ws.tistory.com/8)| 여기는 공백 | 여기에도 글 넣기 |
-
 ## Level 1
 
 ### 미션
 
-| Project | Period | Repository | 1단계 PR | 2단계 PR |
+| Project | Repository | 1단계 PR | 2단계 PR | 3단계 PR |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|자동차 경주 <br>|`2023-02-07` ~ `2023-02-13`|[Repository](https://github.com/woowacourse/javascript-racingcar/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-racingcar/pull/167)|[2단계 PR](https://github.com/woowacourse/javascript-racingcar/pull/207)|
-|로또 <br>|`2023-02-14` ~ `2023-02-27`|[Repository](https://github.com/woowacourse/javascript-lotto/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-lotto/pull/203)|[2단계 PR](https://github.com/woowacourse/javascript-lotto/pull/221)|
-|점심 뭐 먹지 <br>|`2023-02-28` ~ `2023-03-13`|[Repository](https://github.com/woowacourse/javascript-lunch/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-lunch/pull/17)|[2단계 PR](https://github.com/woowacourse/javascript-lunch/pull/71)|
-|영화 리뷰 <br>|`2023-03-14` ~ `2023-03-27`|[Repository](https://github.com/woowacourse/javascript-movie-review/tree/yeopto)|[1단계 PR](https://github.com/woowacourse/javascript-movie-review/pull/45)|[2단계 PR](https://github.com/woowacourse/javascript-movie-review/pull/65)|
+|자동차 경주 - 단위 테스트 <br>|[Repository](https://github.com/woowacourse/java-racingcar/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/java-racingcar/pull/484)|[2단계 PR](https://github.com/woowacourse/java-racingcar/pull/590)| X
+|사다리 타기 - TDD <br>|[Repository](https://github.com/woowacourse/java-ladder/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/java-ladder/pull/96)|[2단계 PR](https://github.com/woowacourse/java-ladder/pull/194)| X
+|블랙잭 - Clean Code <br>|[Repository](https://github.com/woowacourse/java-blackjack/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/java-blackjack/pull/421)|[2단계 PR](https://github.com/woowacourse/java-blackjack/pull/527)| X
+|체스 - OOP, DB <br>|[Repository](https://github.com/woowacourse/java-chess/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/java-chess/pull/460)|[2단계 PR](https://github.com/woowacourse/java-chess/pull/536)|[3단계 PR](https://github.com/woowacourse/java-chess/pull/588)
 
-### 학습로그
+### 포스팅
+- [Varargs와 Heap Pollution](https://dev-ws.tistory.com/31)
+- [동일성과 동등성](https://dev-ws.tistory.com/32)
+- [equals & hashCode](https://dev-ws.tistory.com/34)
+- [enum 소개 및 API 파헤쳐보기](https://dev-ws.tistory.com/35)
+- [enum의 구현 방식 알아보기](https://dev-ws.tistory.com/36)
+- [Throwable 소개 및 API](https://dev-ws.tistory.com/37)
+- [커스텀 예외 사용에 대한 생각](https://dev-ws.tistory.com/39)
+- [왜 상태와 행위를 한 곳에서 관리해야 할까?](https://dev-ws.tistory.com/40)
+- [getter는 금기가 아니다](https://dev-ws.tistory.com/42)
+- [설계 관점에서 바라본 불변 객체](https://dev-ws.tistory.com/43)
 
-- [this 바인딩](https://prolog.techcourse.co.kr/studylogs/2611)
-- [Proxy Pattern](https://prolog.techcourse.co.kr/studylogs/2790)
-- [Sync, Async & Blocking, Non-Blocking](https://prolog.techcourse.co.kr/studylogs/2941)
+### 회고
+- [자동차 경주 미션 회고](https://dev-ws.tistory.com/29)
+- [자동차 경주 미션 학습 기록](https://dev-ws.tistory.com/28)
+- [사다리 타기 미션 회고 및 학습 기록](https://dev-ws.tistory.com/38)
+- [블랙잭 미션 회고](https://dev-ws.tistory.com/41)
+- [블랙잭 미션 학습 기록](https://dev-ws.tistory.com/46)
+- [체스 미션 회고](https://dev-ws.tistory.com/44)
+- [체스 미션 학습 기록 - 1](https://dev-ws.tistory.com/47)
+- [체스 미션 학습 기록 - 2](https://dev-ws.tistory.com/48)
+- [우아한테크코스 레벨 1 회고](https://dev-ws.tistory.com/49)
 
 ## Level 2
 
