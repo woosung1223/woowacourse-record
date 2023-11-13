@@ -49,12 +49,12 @@
 
 ### 미션 🚀
 
-| Project | Repository | 1단계 PR | 2단계 PR | 3단계 PR |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-|웹 자동차 경주 미션 <br>|[Repository](https://github.com/woowacourse/jwp-racingcar/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/63)|[2단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/133)| X
-|쇼핑 장바구니 미션 <br>|[Repository](https://github.com/woowacourse/jwp-shopping-cart/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/247)|[2단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/306)| X
-|지하철 미션 <br>|[Repository](https://github.com/woowacourse/jwp-subway-path/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/9)|[2단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/161)| X
-|쇼핑 주문 미션 - 협업 <br>|[Repository](https://github.com/woowacourse/jwp-shopping-order/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-shopping-order/pull/91)| X | X
+| Project | Repository | 1단계 PR | 2단계 PR |
+|:-----:|:-----:|:-----:|:-----:|
+|웹 자동차 경주 미션 <br>|[Repository](https://github.com/woowacourse/jwp-racingcar/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/63)|[2단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/133)
+|쇼핑 장바구니 미션 <br>|[Repository](https://github.com/woowacourse/jwp-shopping-cart/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/247)|[2단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/306)
+|지하철 미션 <br>|[Repository](https://github.com/woowacourse/jwp-subway-path/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/9)|[2단계 PR](https://github.com/woowacourse/jwp-subway-path/pull/161)
+|쇼핑 주문 미션 - 협업 <br>|[Repository](https://github.com/woowacourse/jwp-shopping-order/tree/woosung1223)|[1단계 PR](https://github.com/woowacourse/jwp-shopping-order/pull/91)| X 
 
 <br> 
 
