@@ -187,7 +187,7 @@
 
 ## 테코블: 우아한테크코스 공식 블로그
 - [JPA Cascade는 무엇이고 언제 사용해야 할까?](https://tecoble.techcourse.co.kr/post/2023-08-14-JPA-Cascade/)
-- [웹 어플리케이션의 역사(게시 예정)](https://ink-chestnut-bd2.notion.site/5d5ad1b51f57498aad4d5b1a3fbf5e72?pvs=4)
+- [웹 어플리케이션의 역사](https://tecoble.techcourse.co.kr/post/2023-10-25-HISTORY-OF-WEB-APP/)
 
 <br>
 
